@@ -2,5 +2,5 @@
 Console.WriteLine("dovilnuy text:)");
 Console.WriteLine("dovilnuy text:)");
 Console.WriteLine("dovilnuy text:)");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("inshuy dovilnuy text:)");
+Console.WriteLine("inshuy dovilnuy text:)");
